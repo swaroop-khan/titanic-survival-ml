@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Kaggle data
+train.csv
+test.csv
+gender_submission.csv
+
+# Generated submission
+submission.csv
+
+# OS
+.DS_Store
+Thumbs.db
